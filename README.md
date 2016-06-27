@@ -1,2 +1,2 @@
 # iOS-Utilities
-A collection of convenience methods for repeating tasks.
+A collection of convenience methods for repetitive tasks.
